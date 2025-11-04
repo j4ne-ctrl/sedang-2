@@ -1,4 +1,6 @@
 # LANGKAH KERJA PROGRAM HITUNG VOLUME TABUNG
+Program ini berfungsi untuk menghitung volume tabung dari jari jari dan tinggi yang dimasukkan user.
+
 Dalam program ini, user diminta untuk memasukkan jari jari dan tinggi tabung (cm). Didalam, program memanggil fungsi hitungVolumedengan parameter jariJari dan tinggi, lalu fungsi akan menghitung volume dengan rumus volume = phi x r x r x t, setelah hasil diperoleh, nilai akan dikembalikan ke main, lalu program akan menampilkan output berikut
 
 
